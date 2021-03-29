@@ -377,6 +377,15 @@ bt {
 	margin: auto;
 }
 
+.profile_pic {
+	min-width: 0% !important;
+}
+
+.icon_img {
+	min-height: 20px !important;
+	display: initial !important;
+}
+
 .column_item p {
 	margin-left: none;
 	padding-top: 2%;
