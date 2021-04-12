@@ -42,13 +42,13 @@ h2{
 h3{
 	font-size: 20px;
 	font-style: bold;
-	color:#437089;
+	color:#5e6964;
 }
 
 h5{
 	font-size: 16px;
 	font-style: bold;
-
+	color:#697771;
 }
 
 
@@ -70,7 +70,7 @@ p {
 
 /* Links */
 a {
-	color:#437089;
+	color:#a2a79a;
 	/*color: #1abc9c;*/
 	word-wrap: break-word;
 	font-style: bold;
@@ -120,9 +120,9 @@ hr {
 }
 
 .navbar-inverse {
-	background-color:#4d829e;
+	background-color:#5e6964;
 	/*background-color: #1abc9c;*/
-	border-color: #4d829e;
+	border-color: #5e6964;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -150,7 +150,7 @@ hr {
 }
 
 .progress-bar-theme {
-	background-color: #4d829e;
+	background-color: #5e6964;
 }
 
 
@@ -394,7 +394,7 @@ bt {
 
 .column_item_header{
 	color: white;
-	background: #5cbdb9;
+	background: #91a39b;
 	padding: 8 4;
 	min-height: 40px;
 	text-align:center;
